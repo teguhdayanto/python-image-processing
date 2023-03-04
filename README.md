@@ -9,3 +9,10 @@ code: python_image_processing_v01.ipynb
 dataset: baboon.png
          lena_color.png
 
+code: python_image_processing_v02.ipynb
+dataset: baboon.png
+         lena_color.png
+         gambar01.jpg
+         gambar02.jpg
+         Slide1.JPG
+         Slide2.JPG
