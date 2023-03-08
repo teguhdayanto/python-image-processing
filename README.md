@@ -20,3 +20,10 @@ dataset: baboon.png
 
 code: pil_python_imaging_library_v01.ipynb
 dataset: empire.jpg
+
+code: python_package_image_processing.ipynb
+dataset: cards.jpg
+         dashboard_car.jpg
+         dino.jpg
+
+
